@@ -7,6 +7,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [Natural Number Sum](###Natural%20Sum)
 - [Pipelining](####Pipeling)
 - [RTC](###RTC)
+- [Sequence Detector](###Sequence%20Detector)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -25,3 +26,6 @@ Three Stage arithmetic operation circuit design pipeling.
 
 ### RTC
 Real Time Clock.
+
+### Sequence Detector
+FSM Design of Sequence Detector.
