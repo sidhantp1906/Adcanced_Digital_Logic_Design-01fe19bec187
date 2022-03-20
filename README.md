@@ -11,6 +11,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [Smart Parking](###Smart%20Parking)
 - [Memory](###Memory)
 - [TicTacToe](###TicTacToe)
+- [Vending Machine](###Vending%20Machine)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -41,3 +42,6 @@ Read/Write Memory design.
 
 ### TicTacToe
 TicTacToe game implementation.
+
+### Vending Machine
+Vending Machine design.
