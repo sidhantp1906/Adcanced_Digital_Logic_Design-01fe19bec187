@@ -6,6 +6,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [GCD](###Fast%20GCD)
 - [Natural Number Sum](###Natural%20Sum)
 - [Pipelining](####Pipeling)
+- [RTC](###RTC)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -21,3 +22,6 @@ Sum of N Natural Number.
 
 ### Pipeling
 Three Stage arithmetic operation circuit design pipeling.
+
+### RTC
+Real Time Clock.
