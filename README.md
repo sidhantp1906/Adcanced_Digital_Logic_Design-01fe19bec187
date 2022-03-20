@@ -8,6 +8,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [Pipelining](####Pipeling)
 - [RTC](###RTC)
 - [Sequence Detector](###Sequence%20Detector)
+- [Smart Parking](###Smart%20Parking)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -29,3 +30,6 @@ Real Time Clock.
 
 ### Sequence Detector
 FSM Design of Sequence Detector.
+
+### Smart Parking
+Smart Parking module IP.
