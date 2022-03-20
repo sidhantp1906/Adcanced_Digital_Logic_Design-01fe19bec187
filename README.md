@@ -10,6 +10,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [Sequence Detector](###Sequence%20Detector)
 - [Smart Parking](###Smart%20Parking)
 - [Memory](###Memory)
+- [TicTacToe](###TicTacToe)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -37,3 +38,6 @@ Smart Parking module IP.
 
 ### Memory
 Read/Write Memory design.
+
+### TicTacToe
+TicTacToe game implementation.
