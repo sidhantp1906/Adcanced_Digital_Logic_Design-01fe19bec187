@@ -5,6 +5,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [Delay Modeling](###Delay%20Modeling)
 - [GCD](###Fast%20GCD)
 - [Natural Number Sum](###Natural%20Sum)
+- [Pipelining](####Pipeling)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -17,3 +18,6 @@ Fast gcd algorithm implementation.
 
 ### Natural Sum
 Sum of N Natural Number.
+
+### Pipeling
+Three Stage arithmetic operation circuit design pipeling.
