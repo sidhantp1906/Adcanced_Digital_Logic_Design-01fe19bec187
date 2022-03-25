@@ -35,6 +35,8 @@ This module shows the working of inter and intra delay in a design and how signa
 #### Architecture
 
 #### Waveform
+![Screenshot (116)](https://user-images.githubusercontent.com/60102705/160144714-2b493a1a-0547-4420-881f-bd556d40eedf.png)
+
 
 ### Fast GCD
 Fast gcd algorithm implementation.
