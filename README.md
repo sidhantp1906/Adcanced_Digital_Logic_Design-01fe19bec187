@@ -19,16 +19,8 @@ Implementation of multiplier using adiition method.
 #### Design
 In this multiplier is designed using the basic idea of adding and shifting the bits,
 let say, we have 1 and 2 to multiply which gives output as 2 now we will look how it 
-works in this algorithm                                                                                                                                               
-                          01                                                                                                                                           
-                        ====                                                                                                                                           
-                        * 10                                                                                                                                          
-                        ====                                                                                                                                           
-                          00                                                                                                                                           
-                         01+                                                                                                                                                                                                                                                 
-                        ====                                                                                                                                         
-                    ans = 10                                                                                                                                           
-                        ====  
+works in this algorithm  
+1 x 2 = 1 + 1 = 2.
                         
 #### Architecture
 
@@ -83,6 +75,7 @@ and last stage gives output z which is z = yxd.
 Real Time Clock.
 
 #### Design
+Design of real time clock module which gives outputs in hours:minutes:seconds.
 
 #### Archictecture
 
@@ -92,6 +85,9 @@ Real Time Clock.
 FSM Design of Sequence Detector.
 
 #### Design
+This design detects the sequence 1011 consists of 5 states,first state is idle which when detects 1 then goes to state2 else remains in state1
+,state2 goes to state3 when detects 0 else remains in itself ,state3 goes to state4 when detetcs 1 else goes to state1 and state4 goes to state5 
+when detetcs 1 else goes to state3 and state5 goes to state1 when input is 1 else in state3.
 
 #### Archictecture
 
@@ -101,6 +97,9 @@ FSM Design of Sequence Detector.
 Smart Parking module IP.
 
 #### Design
+This takes exit and entry sensor data as input when entry sensor detetcs car at door then it asks for password when matches then
+it opens the door else it asks for password and fills the space when exit sensor detects car then it opens the door and vacant one
+pace from memory for other cars to fill if required.
 
 #### Archictecture
 
@@ -110,6 +109,8 @@ Smart Parking module IP.
 Read/Write Memory design.
 
 #### Design
+Simple Read/Wrte(SRAM) memory architecture which gives output data when read signal is high ,when write signal is high it 
+allows user to write data at desired location in memory
 
 #### Archictecture
 
