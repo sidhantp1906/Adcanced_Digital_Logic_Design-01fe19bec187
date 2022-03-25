@@ -120,6 +120,10 @@ allows user to write data at desired location in memory
 TicTacToe game implementation.
 
 #### Design
+This is the design of tictactoe game which allows two players to fit their values into game block(memory)
+which are x represented by 10 and o represented by 01 and it also gives illegal move signal when player tries to enter 
+their values in place where it is already filled. Winner is decided when someone fills any 3 consecutive blocks first and game gets over
+when all spaces are filled but no one completes it.
 
 #### Archictecture
 
@@ -129,6 +133,10 @@ TicTacToe game implementation.
 Vending Machine design.
 
 #### Design
+Design of vending machine which has only access to Rs.5,10 and 20 and keeps a count of current total money ,other inputs are refund and return
+refund of money will be granted when user asks for refund and return allows user to get back their change money.
+To get soda Rs.55 has to be completed Rs.70 for water ,beep signal is generated when someone tries to get soda/water before completing 
+desired amount.
 
 #### Archictecture
 
