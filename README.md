@@ -120,6 +120,7 @@ allows user to write data at desired location in memory
 #### Archictecture
 
 #### Waveform
+![Screenshot (119)](https://user-images.githubusercontent.com/60102705/160146682-860eaee0-49bf-45b1-91fb-8b8a82d9d7dc.png)
 
 ### TicTacToe
 TicTacToe game implementation.
