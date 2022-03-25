@@ -15,6 +15,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
+
 #### Design
 In this multiplier is designed using the basic idea of adding and shifting the bits,
 let say, we have 1 and 2 to multiply which gives output as 2 now we will look how it 
@@ -27,10 +28,17 @@ works in this algorithm
                          01+                                                                                                                                                                                                                                                 
                         ====                                                                                                                                         
                     ans = 10                                                                                                                                           
-                        ====                                                                                                                                           
+                        ====  
+                        
+#### Architecture
 
 ### Delay Modeling
 Modeling of delays.
+
+#### Design
+This module shows the working of inter and intra delay in a design and how signal behaves with the delays.
+
+#### Architecture
 
 ### Fast GCD
 Fast gcd algorithm implementation.
