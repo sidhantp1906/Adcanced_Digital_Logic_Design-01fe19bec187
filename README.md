@@ -141,4 +141,5 @@ desired amount.
 #### Archictecture
 
 #### Waveform
+![Screenshot (101)](https://user-images.githubusercontent.com/60102705/160142006-a67d6dc6-9bfc-4d53-93ea-905d81106298.png)
 
