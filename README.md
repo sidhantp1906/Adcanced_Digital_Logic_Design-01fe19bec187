@@ -108,6 +108,7 @@ pace from memory for other cars to fill if required.
 #### Archictecture
 
 #### Waveform
+![Screenshot (118)](https://user-images.githubusercontent.com/60102705/160146085-c7d5b8d3-e9da-4e11-adf0-14261c8a8096.png)
 
 ### Memory
 Read/Write Memory design.
