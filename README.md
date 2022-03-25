@@ -128,6 +128,7 @@ when all spaces are filled but no one completes it.
 #### Archictecture
 
 #### Waveform
+![winner](https://user-images.githubusercontent.com/60102705/160142168-82a58832-49bf-48ff-aed8-5653f4984910.png)
 
 ### Vending Machine
 Vending Machine design.
