@@ -72,6 +72,7 @@ and last stage gives output z which is z = yxd.
 #### Archictecture
 
 #### Waveform
+![Screenshot (117)](https://user-images.githubusercontent.com/60102705/160145405-319cd6a2-31ba-41ca-a626-e6d40a8c41c4.png)
 
 ### RTC
 Real Time Clock.
