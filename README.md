@@ -18,12 +18,13 @@ Implementation of multiplier using adiition method.
 #### Design
 In this multiplier is designed using the basic idea of adding and shifting the bits,
 let say, we have 1 and 2 to multiply which gives output as 2 now we will look how it 
-works in this algorithm   01
-                        ====
-                        * 10
-                        ====
-                          00
-                         01+
+works in this algorithm 
+                          01                                                                                                                                           
+                        ====                                                                                                                                           
+                        * 10                                                                                                                                          
+                        ====                                                                                                                                           
+                          00                                                                                                                                           
+                         01+                                                                                                                                                                                                                                                 
                         ====
                     ans = 10
                         ====
