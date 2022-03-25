@@ -32,6 +32,8 @@ works in this algorithm
                         
 #### Architecture
 
+#### Waveform
+
 ### Delay Modeling
 Modeling of delays.
 
@@ -40,29 +42,86 @@ This module shows the working of inter and intra delay in a design and how signa
 
 #### Architecture
 
+#### Waveform
+
 ### Fast GCD
 Fast gcd algorithm implementation.
+
+#### Design
+
+#### Architecture
+
+#### Waveform
 
 ### Natural Sum
 Sum of N Natural Number.
 
+#### Design
+
+#### Architecture
+
+#### Waveform
+
 ### Pipeling
 Three Stage arithmetic operation circuit design pipeling.
+
+#### Design
+
+#### Archictecture
+
+#### Waveform
 
 ### RTC
 Real Time Clock.
 
+#### Design
+
+#### Archictecture
+
+#### Waveform
+
 ### Sequence Detector
 FSM Design of Sequence Detector.
+
+#### Design
+
+#### Archictecture
+
+#### Waveform
 
 ### Smart Parking
 Smart Parking module IP.
 
+#### Design
+
+#### Archictecture
+
+#### Waveform
+
 ### Memory
 Read/Write Memory design.
+
+#### Design
+
+#### Archictecture
+
+#### Waveform
 
 ### TicTacToe
 TicTacToe game implementation.
 
+#### Design
+
+#### Archictecture
+
+#### Waveform
+
 ### Vending Machine
 Vending Machine design.
+
+#### Design
+
+#### Archictecture
+
+#### Waveform
+
