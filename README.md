@@ -80,6 +80,7 @@ Design of real time clock module which gives outputs in hours:minutes:seconds.
 #### Archictecture
 
 #### Waveform
+![Screenshot (84)](https://user-images.githubusercontent.com/60102705/160143177-d563c8f3-890b-4afd-ae06-5a06b21561fc.png)
 
 ### Sequence Detector
 FSM Design of Sequence Detector.
