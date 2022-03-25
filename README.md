@@ -48,6 +48,9 @@ This module shows the working of inter and intra delay in a design and how signa
 Fast gcd algorithm implementation.
 
 #### Design
+This is the implementation of gcd using compare and shift method in which if a > b then a = a - b 
+else b = b-a and if a = b then our gcd is b and if not equal then above are executed until we get a = b hence
+our gcd comes up in b.
 
 #### Architecture
 
@@ -57,6 +60,8 @@ Fast gcd algorithm implementation.
 Sum of N Natural Number.
 
 #### Design
+We know to add natural number simply by using loop but in this we are using N(N+1)/2 formula to reduce the use of
+adder,multiplier and divider and hence reducing cost and time.
 
 #### Architecture
 
@@ -66,6 +71,9 @@ Sum of N Natural Number.
 Three Stage arithmetic operation circuit design pipeling.
 
 #### Design
+This is design of 3-stage pipelined arithmetic unit which calculated addition substraction and multiplication 
+in respective stages,in first stage it calculated x1 = a+b and x2 =  c-d and in second stage it calculates y = x1+x2
+and last stage gives output z which is z = yxd.
 
 #### Archictecture
 
