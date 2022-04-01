@@ -58,6 +58,7 @@ We know to add natural number simply by using loop but in this we are using N(N+
 adder,multiplier and divider and hence reducing cost and time.It is also two stage pipelined in which first stage is fetch which reads data from 1 to 512 from memory and then second stage is execute which makes the sum function.
 
 #### Architecture
+![Screenshot (122)](https://user-images.githubusercontent.com/60102705/161207341-d16df14a-a769-4b44-a2d8-a0e3aec36928.png)
 
 #### Waveform
 ![Screenshot (121)](https://user-images.githubusercontent.com/60102705/161206744-3c31a1a3-c3b3-41d7-900d-e5425efd4259.png)
