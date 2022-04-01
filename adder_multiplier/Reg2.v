@@ -18,7 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module Reg2(input clk,load_P,clear_p,[15:0]data_P,output reg[15:0]Y
+module Reg2(input clk,load_P,clear_p,
+	    input[15:0]data_P,output reg[15:0]Y
     );
 always @(posedge clk)
 	begin
