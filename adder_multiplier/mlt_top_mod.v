@@ -18,7 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module mlt_top_mod(input start,clk,resetn,[15:0]ain,bin,
+module mlt_top_mod(input start,clk,resetn,
+                   input[15:0]ain,bin,
 output [15:0]data_op,
 output done
     );
