@@ -18,7 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module add_mlt(input clk,[15:0]dataa,datab,
+module add_mlt(input clk,
+               input[15:0]dataa,datab,
 input ld_a,ld_b,ld_p,cr_p,dc_b,
 output [15:0]ax,py,bd,
 output zero,[15:0]out
