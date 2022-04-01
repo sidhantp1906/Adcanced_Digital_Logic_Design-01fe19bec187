@@ -55,11 +55,12 @@ Sum of N Natural Number.
 
 #### Design
 We know to add natural number simply by using loop but in this we are using N(N+1)/2 formula to reduce the use of
-adder,multiplier and divider and hence reducing cost and time.
+adder,multiplier and divider and hence reducing cost and time.It is also two stage pipelined in which first stage is fetch which reads data from 1 to 512 from memory and then second stage is execute which makes the sum function.
 
 #### Architecture
 
 #### Waveform
+![Screenshot (121)](https://user-images.githubusercontent.com/60102705/161206744-3c31a1a3-c3b3-41d7-900d-e5425efd4259.png)
 
 ### Pipeling
 Three Stage arithmetic operation circuit design pipeling.
