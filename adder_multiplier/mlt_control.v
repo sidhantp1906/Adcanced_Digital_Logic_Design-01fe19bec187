@@ -60,7 +60,7 @@ multiplication:begin
 						if(eqz)
 						nex_s = done_out;
 						else
-						nex_s <= decreament_b;
+						nex_s = decreament_b;
 					end
 decreament_b:begin
 				 dec_b = 1;
