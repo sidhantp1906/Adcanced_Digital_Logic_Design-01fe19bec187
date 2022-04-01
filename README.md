@@ -142,6 +142,8 @@ their values in place where it is already filled. Winner is decided when someone
 when all spaces are filled but no one completes it.
 
 #### Archictecture
+![Screenshot (131)](https://user-images.githubusercontent.com/60102705/161214106-09728174-3e49-4715-a968-13e0d0f7d75d.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/60102705/161214113-8a342554-ac9e-4914-8243-abddf2700989.png)
 
 #### Waveform
 ![winner](https://user-images.githubusercontent.com/60102705/160142168-82a58832-49bf-48ff-aed8-5653f4984910.png)
