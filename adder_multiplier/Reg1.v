@@ -18,7 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module Reg1(input load,[15:0]data,
+module Reg1(input load,
+            input [15:0]data,
 input clk,output reg [15:0]X
     );
 always @(posedge clk)
