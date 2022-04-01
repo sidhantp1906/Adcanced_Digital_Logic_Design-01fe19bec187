@@ -23,6 +23,8 @@ works in this algorithm
 1 x 2 = 1 + 1 = 2.
                         
 #### Architecture
+![Screenshot (123)](https://user-images.githubusercontent.com/60102705/161208698-7aa1f9dd-5739-40b9-97aa-cef35cfa05ed.png)
+![Screenshot (124)](https://user-images.githubusercontent.com/60102705/161208692-e42c542e-ab72-4bf6-8907-933369f2b7e5.png)
 
 #### Waveform
 
