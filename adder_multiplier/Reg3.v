@@ -18,7 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module Reg3(input clk,loadb,dcb,[15:0]datb,output reg[15:0]datout
+module Reg3(input clk,loadb,dcb,
+	    input[15:0]datb,output reg[15:0]datout
     );
 always @(posedge clk)
 begin
