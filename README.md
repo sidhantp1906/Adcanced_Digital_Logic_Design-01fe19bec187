@@ -158,6 +158,8 @@ To get soda Rs.55 has to be completed Rs.70 for water ,beep signal is generated 
 desired amount.
 
 #### Archictecture
+![Screenshot (132)](https://user-images.githubusercontent.com/60102705/161214262-9649329d-6cc1-43d9-8884-78cef2a853fa.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/60102705/161214266-d9f5bc99-995f-478c-a976-dedc3e27016f.png)
 
 #### Waveform
 ![Screenshot (101)](https://user-images.githubusercontent.com/60102705/160142006-a67d6dc6-9bfc-4d53-93ea-905d81106298.png)
