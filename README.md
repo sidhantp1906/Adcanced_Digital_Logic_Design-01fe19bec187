@@ -101,6 +101,7 @@ This design detects the sequence 1011 consists of 5 states,first state is idle w
 when detetcs 1 else goes to state3 and state5 goes to state1 when input is 1 else in state3.
 
 #### Archictecture
+![Screenshot (128)](https://user-images.githubusercontent.com/60102705/161210901-dd3e58a5-c695-4e06-b895-dac41a9c5de1.png)
 
 #### Waveform
 ![Screenshot (120)](https://user-images.githubusercontent.com/60102705/161205820-b2df62dc-fbe1-4edc-ab61-459b322a28ae.png)
