@@ -76,6 +76,7 @@ in respective stages,in first stage it calculated x1 = a+b and x2 =  c-d and in 
 and last stage gives output z which is z = yxd.
 
 #### Archictecture
+![Screenshot (127)](https://user-images.githubusercontent.com/60102705/161210122-3c66d2e3-266b-4cdb-9f15-1a3a702ffed7.png)
 
 #### Waveform
 ![Screenshot (117)](https://user-images.githubusercontent.com/60102705/160145405-319cd6a2-31ba-41ca-a626-e6d40a8c41c4.png)
