@@ -18,7 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module comp( input clk, [15:0]in,output reg zer
+module comp( input clk,
+            input [15:0]in,output reg zer
     );
 always @(clk)
 begin
