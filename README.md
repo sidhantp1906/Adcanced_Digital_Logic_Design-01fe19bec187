@@ -35,6 +35,7 @@ Modeling of delays.
 This module shows the working of inter and intra delay in a design and how signal behaves with the delays.
 
 #### Architecture
+![Screenshot (125)](https://user-images.githubusercontent.com/60102705/161209150-2002247a-ea96-465a-8905-4c4591a11e9f.png)
 
 #### Waveform
 ![Screenshot (116)](https://user-images.githubusercontent.com/60102705/160144714-2b493a1a-0547-4420-881f-bd556d40eedf.png)
