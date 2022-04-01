@@ -96,6 +96,7 @@ when detetcs 1 else goes to state3 and state5 goes to state1 when input is 1 els
 #### Archictecture
 
 #### Waveform
+![Screenshot (120)](https://user-images.githubusercontent.com/60102705/161205820-b2df62dc-fbe1-4edc-ab61-459b322a28ae.png)
 
 ### Smart Parking
 Smart Parking module IP.
