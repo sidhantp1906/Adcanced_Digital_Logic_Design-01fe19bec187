@@ -50,6 +50,7 @@ else b = b-a and if a = b then our gcd is b and if not equal then above are exec
 our gcd comes up in b.
 
 #### Architecture
+![Screenshot (126)](https://user-images.githubusercontent.com/60102705/161209756-0e2be0f8-7d5f-4db1-8a9a-fbf82bde14d0.png)
 
 #### Waveform
 
