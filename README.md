@@ -166,8 +166,13 @@ desired amount.
 ![Screenshot (101)](https://user-images.githubusercontent.com/60102705/160142006-a67d6dc6-9bfc-4d53-93ea-905d81106298.png)
 
 ### 4Stage Pipeline
+4-stage pipelined Architecture that carries out following stage-wise operations.
 
 #### Design
+Stage1:Read two 16-bit number from registers specified by rs1 and rs2 and store them in A and B.
+Stage2:Perform ALU operations on them specified by func and store in z.
+Stage3:Write the value of z in the register specified by rd.
+Stage4:Also write the value of z in memory location specified by addr.
 
 #### Architecture
 ![Screenshot (136)](https://user-images.githubusercontent.com/60102705/161427183-5ec19931-92c6-4f14-b721-49585875fbc8.png)
