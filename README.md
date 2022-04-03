@@ -12,6 +12,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [Memory](###Memory)
 - [TicTacToe](###TicTacToe)
 - [Vending Machine](###Vending%20Machine)
+- [4-Stage-Pipeline](###4Stage%20Pipeline)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -164,3 +165,10 @@ desired amount.
 #### Waveform
 ![Screenshot (101)](https://user-images.githubusercontent.com/60102705/160142006-a67d6dc6-9bfc-4d53-93ea-905d81106298.png)
 
+### 4Stage Pipeline
+
+#### Design
+
+#### Architecture
+
+#### Waveform
