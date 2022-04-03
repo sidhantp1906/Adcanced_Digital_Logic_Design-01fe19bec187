@@ -170,5 +170,7 @@ desired amount.
 #### Design
 
 #### Architecture
+![Screenshot (136)](https://user-images.githubusercontent.com/60102705/161427183-5ec19931-92c6-4f14-b721-49585875fbc8.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/60102705/161427185-a36c250b-5d6c-4a12-8711-e94568e63249.png)
 
 #### Waveform
