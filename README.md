@@ -174,3 +174,4 @@ desired amount.
 ![Screenshot (135)](https://user-images.githubusercontent.com/60102705/161427185-a36c250b-5d6c-4a12-8711-e94568e63249.png)
 
 #### Waveform
+![Screenshot (134)](https://user-images.githubusercontent.com/60102705/161427255-2bfc2d53-6350-4a6f-98c7-e38c8a53c3a5.png)
