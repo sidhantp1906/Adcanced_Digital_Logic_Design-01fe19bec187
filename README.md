@@ -169,9 +169,9 @@ desired amount.
 4-stage pipelined Architecture that carries out following stage-wise operations.
 
 #### Design
-Stage1:Read two 16-bit number from registers specified by rs1 and rs2 and store them in A and B.
-Stage2:Perform ALU operations on them specified by func and store in z.
-Stage3:Write the value of z in the register specified by rd.
+Stage1:Read two 16-bit number from registers specified by rs1 and rs2 and store them in A and B.                                                                       
+Stage2:Perform ALU operations on them specified by func and store in z.                                                                                                
+Stage3:Write the value of z in the register specified by rd.                                                                                                           
 Stage4:Also write the value of z in memory location specified by addr.
 
 #### Architecture
