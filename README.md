@@ -196,3 +196,4 @@ Stage4:Also write the value of z in memory location specified by addr.
 ![image](https://user-images.githubusercontent.com/60102705/165224001-a1c0a844-72d7-4fa2-8725-372fdf6e2c23.png)
 
 #### Waveform
+![image](https://user-images.githubusercontent.com/60102705/165224282-3ba36a95-ea62-441a-b00a-180939ef8880.png)
