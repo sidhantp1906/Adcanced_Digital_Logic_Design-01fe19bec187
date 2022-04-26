@@ -13,6 +13,7 @@ Lab projects using Verilog HDL in Xilinx ISE
 - [TicTacToe](###TicTacToe)
 - [Vending Machine](###Vending%20Machine)
 - [4-Stage-Pipeline](###4Stage%20Pipeline)
+- [MIPS32](###MIPS32)
 
 ### Adder Multiplier
 Implementation of multiplier using adiition method.
@@ -180,3 +181,18 @@ Stage4:Also write the value of z in memory location specified by addr.
 
 #### Waveform
 ![Screenshot (134)](https://user-images.githubusercontent.com/60102705/161427255-2bfc2d53-6350-4a6f-98c7-e38c8a53c3a5.png)
+
+### MIPS32
+5-stage pipelined RISC architecture.
+
+#### Design
+1st stage -> Fetching instruction from Instruction Memory and loading into Instruction Register(IR).                                                            
+2nd stage -> Decoding instruction and storing into accumulator registers from register bank.                                                                          
+3rd stage -> Executing the instruction based on opcode.                                                                                                             
+4rth stage -> Loading content of memory if opcode is load or storing ALU outputinto memory if opcodeis store.                                                          
+5th stage -> Writing back the ALU output into destination registers in register bank.
+
+#### Architecture
+![image](https://user-images.githubusercontent.com/60102705/165224001-a1c0a844-72d7-4fa2-8725-372fdf6e2c23.png)
+
+#### Waveform
